@@ -99,3 +99,15 @@ If the trait makes you unable to be killed (`CHANCE_KILLED_WITH_TRAIT = 0`),
 the trait will still die out in our environment.
 
     dies out 100% of the time, in 33.0 +/- 26.1 years
+
+
+Questions
+=========
+
+###  Where are the tests?
+
+They are over in that other folder over there.
+
+### Can I see them?
+
+No. No you can't.
